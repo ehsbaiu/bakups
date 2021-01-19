@@ -9,7 +9,7 @@
 												<div id="jump-to-nav">跳转至：							<a href="#mw_portlets">导航</a>、							<a href="#searchInput">搜索</a>
 						</div>
 
-						<div id="mw-content-text" lang="zh-Hans" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>人生自古谁无死？不幸地，<a href="/wiki/%E6%B5%85%E8%BD%BB" title="浅轻">浅轻</a>已经去世，他再也无法和我们互动了，让我们默哀三分钟。
+						<div id="mw-content-text" lang="zh-Hans" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>人生自古谁无死？不幸地，<a href="/2021/01/19/xiaoshen-archive:浅轻" title="浅轻">浅轻</a>已经去世，他再也无法和我们互动了，让我们默哀三分钟。
 </p>
     <div>
       <div class="esu-hp-content esu-hp-text-center esu-hp-huge-text esu-hp-zxr-container" style="background-color:black;color:red">
